@@ -18,7 +18,8 @@ NOTE: Please read the RUN section before opening an issue.
 
 ## Demo
 
-![screenshot](Screenshot 2022-10-05 155528.jpg)
+![screenshot](https://github.com/RAZIBK/ReviewsAndRating/blob/main/Screenshot%202022-10-05%20155528.jpg)
+![screenshot](https://github.com/RAZIBK/ReviewsAndRating/blob/main/Screenshot%202022-10-05%20155613.jpg)
 
 
 The website resembles that  you can add review and rating to products in your website.
